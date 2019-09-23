@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351640640418",
+    "firebase_url": "https://phoneauthenticationexamp-8194f.firebaseio.com",
+    "project_id": "phoneauthenticationexamp-8194f",
+    "storage_bucket": "phoneauthenticationexamp-8194f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351640640418:android:12a080967951bbba",
+        "android_client_info": {
+          "package_name": "com.topscode.phoneauthenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351640640418-hath6t5djp9b2jpl242j7o364dses2t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topscode.phoneauthenticationexample",
+            "certificate_hash": "b9bfaa1b8ef41aedbb9e8a3e97d4bc908703f96c"
+          }
+        },
+        {
+          "client_id": "351640640418-ssua93nk5m4p1rc0tropgnfdc9g8m140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo-05USX7dq6OI45CVzBeLGEwPaNXB680"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351640640418-ssua93nk5m4p1rc0tropgnfdc9g8m140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
